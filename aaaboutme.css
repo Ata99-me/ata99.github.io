@@ -1,0 +1,81 @@
+.caption {
+    background-size: cover;
+    background-position: absolute;
+}
+.para {
+    background-image: url("beach2.jpg");
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box {
+    width: 400px;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    color: white;
+}
+
+#boximg {
+    width: 250px; 
+    height: 170px;
+    position: relative;          
+    display: inline-block;
+    margin-top: 10%;
+    left: 50%;                   
+    transform: translate(-60%)
+} 
+.navbar-brand img{
+    height: 3rem;
+    width: auto;
+}
+.navbar-brand {
+    height: 3rem;
+}
+.navbar {
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background: rgba(0, 0, 0, 0.6) !important; 
+}
+.navbar-nav li {
+    padding-left: 200%;
+}
+.caption img {
+    padding-top: 15%;
+    width: 200px;
+    height: auto;
+}
+.jumbotron img {
+    width: 70px;
+    height: auto;
+}
+.jumbotron {
+    /*display: inline;*/
+    height: 250px;
+    width: auto;
+}
+.paral {
+    background-image: url("i2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container {
+    margin-top: 8%;
+    margin-left: 8%;
+}
+.paralll img{
+    width: 350px;
+    height: 240px;
+    margin-bottom: 30%;
+}
+.paralll {
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium';
+}

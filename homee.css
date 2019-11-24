@@ -1,0 +1,32 @@
+.navbar-brand img{
+    height: 3rem;
+    width: auto;
+}
+.navbar-brand {
+    height: 3rem;
+}
+.navbar {
+    font-weight: 700;
+    font-size: .9rem;
+    letter-spacing: .1rem;
+    background: rgba(0, 0, 0, 0.6) !important; 
+}
+.navbar-nav li {
+    padding-left: 200%;
+}
+
+.caption {
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 60%;
+    z-index: 1;
+    color: black;
+    text-transform: uppercase;
+}
+.caption h1{
+    font-size: 3.8 rem;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    text-shadow: .2rem .2rem .8rem white;
+}
